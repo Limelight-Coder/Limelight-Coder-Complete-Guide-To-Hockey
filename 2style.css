@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+
+body {
+   
+background: linear-gradient(to right, #5B86E5, #36D1DC);
+
+}
+
+.header {
+    padding: 25px;
+    background: 3px white;
+    color: black;
+    font-size: 16px;
+    border: 3px #FFFFFF;
+    margin: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+  }
+
+  a {
+    border: 2px;
+  }
+ 
